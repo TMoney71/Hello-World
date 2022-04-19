@@ -2,7 +2,7 @@
 
 This is just the start of many things to come. I am super excited to learn about what is going to happen and to expand my knowledge in this feild.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/LQAm0wBlCmQ)
 
 # Development Environment
 
